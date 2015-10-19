@@ -1,0 +1,17 @@
+Ingeniería inversa
+
+El objetivo de la ingeniería inversa es obtener información o un diseño a partir de un producto, con el fin de determinar 
+de qué está hecho, qué lo hace funcionar y cómo fue fabricado.
+
+El método se denomina así porque avanza en dirección opuesta a las tareas habituales de ingeniería, que consisten en 
+utilizar datos técnicos para elaborar un producto determinado. En general, si el producto u otro material que fue sometido 
+a la ingeniería inversa fue obtenido en forma apropiada, entonces el proceso es legítimo y legal. De la misma forma, 
+pueden fabricarse y distribuirse, legalmente, los productos genéricos creados a partir de la información obtenida de la 
+ingeniería inversa, como es el caso de algunos proyectos de software libre ampliamente conocidos.
+
+El programa Samba es un claro ejemplo de ingeniería inversa, dado que permite a sistemas operativos UNIX compartir archivos 
+con sistemas Microsoft Windows. El proyecto Samba tuvo que investigar información confidencial (no liberada al público en 
+general por Microsoft) sobre los aspectos técnicos relacionados con el sistema de archivos Windows. Lo mismo realiza el 
+proyecto WINE para el conjunto de API de Windows y OpenOffice.org con los formatos propios de Microsoft Office, o se hace 
+para entender la estructura del sistema de archivos NTFS y así poder desarrollar drivers para la lectura-escritura sobre 
+el mismo (principalmente para sistemas basados en GNU/Linux).
