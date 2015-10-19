@@ -1,0 +1,17 @@
+Reingeniería del software se puede definir como: “modificación de un producto software, o de ciertos componentes, usando para el análisis del sistema existente técnicas de Ingeniería Inversa y, para la etapa de reconstrucción, herramientas de Ingeniería Directa, de tal manera que se oriente este cambio hacia mayores niveles de facilidad en cuanto a mantenimiento, reutilización, comprensión o evaluación.”
+Cuando una aplicación lleva siendo usada años, es fácil que esta aplicación se vuelva inestable como fruto de las múltiples correcciones, adaptaciones o mejoras que han podido surgir a lo largo del tiempo. Esto deriva en que cada vez que se pretende realizar un cambio se producen efectos colaterales inesperados y hasta de gravedad, por lo que se hace necesario, si se prevé que la aplicación seguirá siendo de utilidad, aplicar reingeniería a la misma.
+Entre los beneficios de aplicar reingeniería a un producto existente se puede incluir:
+Pueden reducir los riegos evolutivos de una organización.
+Puede ayudar a las organizaciones a recuperar sus inversiones en software.
+Puede hacer el software más fácilmente modificable
+Amplía las capacidades de las herramientas CASE
+Es un catalizador para la automatización del mantenimiento del software
+Puede actuar como catalizador para la aplicación de técnicas de inteligencia artificial para resolver problemas de reingeniería
+La reingeniería del software involucra diferentes actividades como son:
+análisis de inventarios
+reestructuración de documentos
+ingeniería inversa
+reestructuración de programas y datos
+ingeniería directa
+con la finalidad de crear versiones de programas ya existentes que sean de mejor calidad y los mismos tengan una mayor facilidad de mantenimiento.
+
