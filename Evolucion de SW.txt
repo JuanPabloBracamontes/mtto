@@ -1,0 +1,40 @@
+Introducción
+
+La Ingeniería del Software va a introducirse en la cuarta década de su existencia y sufre de los muchos puntos fuertes y débiles. La Ingeniería del Software se va aproximando a su edad media con muchos logros a sus espaldas, pero con un trabajo significativo todavía por hacer. Hoy en día, está reconocida como una disciplina legítima, digna de tener una investigación seria, un estudio concienzudo y un grande y tumultuoso debate. En la industria el Ingeniero del software ha sustituido al programador como titulo de trabajo preferente. Los modelos de procesos de software, métodos de ingeniería de software y herramientas se han adoptado con éxito en el amplio espectro de las aplicaciones industriales. Los gestores y usuarios reconocen la necesidad de un enfoque más disciplinado del software.
+
+La búsqueda de técnicas que mejorasen la calidad y permitiesen reducir los costos de las soluciones basadas en computadoras ha sido uno de los objetivos más perseguidos desde los inicios de la informática. A mediados de los 60, la creación de un producto software se convertía en una tarea angustiosa, se hizo por tanto necesario introducir una serie de herramientas y procedimientos que facilitaran por un lado, la labor de creación de nuevo software y por otro, la comprensión y el manejo del mismo. Estos fueron los inicios de la Ingeniería del Software. Con el paso del tiempo, la evolución de estos métodos nos han llevado a reconocer la Ingeniería del Software como una verdadera disciplina, derivada de una investigación seria y de un estudio minucioso.
+
+La evolución del Software
+
+Durante los primeros años de la era de la computadora, el software se contemplaba como un añadido. La programación de computadoras era un "arte de andar por casa" para el que existían pocos métodos sistemáticos. El desarrollo del software se realizaba virtualmente sin ninguna planificación, hasta que los planes comenzaron a descalabrarse y los costes a correr. Los programadores trataban de hacer las cosas bien, y con un esfuerzo heroico, a menudo salían con éxito. El software se diseñaba a medida para cada aplicación y tenia una distribución relativamente pequeña.
+
+La mayoría del software se desarrollaba y era utilizado por la misma persona u organización. La misma persona lo escribía, lo ejecutaba y, si fallaba, lo depuraba. Debido a este entorno personalizado del software, el diseño era un proceso implícito, realizado en la mente de alguien y, la documentación normalmente no existía.
+
+La segunda era en la evolución de los sistemas de computadora se extienden desde la mitad de la década de los sesenta hasta finales de los setenta. La multiprogramación y los sistemas multiusuario introdujeron nuevos conceptos de interacción hombre - maquina. Las técnicas interactivas abrieron un nuevo mundo de aplicaciones y nuevos niveles de sofisticación del hardware y del software. Los sistemas de tiempo real podían recoger, analizar y transformar datos de múltiples fuentes, controlando así los procesos y produciendo salidas en milisegundos en lugar de minutos. Los avances en los dispositivos de almacenamiento en línea condujeron a la primera generación de sistemas de gestión de bases de datos.
+
+La segunda era se caracterizo también por el establecimiento del software como producto y la llegada de las "casas del software". Los patronos de la industria, del gobierno y de la universidad se aprestaban a "desarrollar el mejor paquete de software" y ganar así mucho dinero.
+
+Conforme crecía el numero de sistemas informáticos, comenzaron a extenderse las bibliotecas de software de computadora. Las casas desarrollaban proyectos en los que se producían programas de decenas de miles de sentencia fuente. Todos esos programas, todas esas sentencias fuente tenían que ser corregidos cuando se detectaban fallos, modificados cuando cambiaban los requisitos de los usuarios o adaptados a nuevos dispositivos hardware que se hubieran adquirido. Estas actividades se llamaron colectivamente mantenimiento del software.
+
+La tercera era en la evolución de los sistemas de computadora comenzó a mediados de los años setenta y continuo mas allá de una década. El sistema distribuido, múltiples computadoras, cada una ejecutando funciones concurrente y comunicándose con alguna otra, incrementó notablemente la complejidad de los sistemas informáticos. Las redes de área local y de área global, las comunicaciones digitales de alto ancho de banda y la creciente demanda de acceso "instantáneo" a los datos, supusieron una fuerte presión sobre los desarrolladores del software.
+
+La conclusión de la tercera era se caracterizo por la llegada y amplio uso de los microprocesadores. El microprocesador ha producido un extenso grupo de productos inteligentes, desde automóviles hasta hornos microondas, desde robots industriales a equipos de diagnósticos de suero sanguíneo.
+
+La cuarta era de la evolución de los sistemas informáticos se aleja de las computadoras individuales y de los programas de computadoras, dirigiéndose al impacto colectivo de las computadoras y del software. Potentes maquinas personales controladas por sistemas operativos sofisticados, en redes globales y locales, acompañadas por aplicaciones de software avanzadas se han convertido en la norma.
+
+La industria del software ya es la cuna de la economía del mundo. Las técnicas de la cuarta generación para el desarrollo del software están cambiando en la forma en que la comunidad del software construye programas informáticos. Las tecnologías orientadas a objetos están desplazando rápidamente los enfoques de desarrollo de software más convencionales en muchas áreas de aplicaciones.
+
+Sin embargo, un conjunto de problemas relacionados con el software ha persistido a través de la evolución de los sistemas basados en computadora, y estos problemas continúan aumentando.
+
+los avances del software continúan dejando atrás nuestra habilidad de construir software para alcanzar el potencial del hardware.
+
+Nuestra habilidad de construir nuevos programas no pueden ir al mismo ritmo de la demanda de nuevos programas, ni podemos construir programas lo suficientemente rápido como para cumplir las necesidades del mercado y de los negocios.
+
+El uso extenso de computadoras ha hecho de la sociedad cada vez más dependiente de la operación fiable del software. Cuando el software falla, pueden ocurrir daños económicos enormes y ocasionar sufrimiento humano.
+
+Luchamos por construir software informático que tengan fiabilidad y alta calidad.
+
+Nuestra habilidad de soportar y mejorar los programas existentes se ve amenazada por diseños pobres y recursos inadecuados.
+
+En respuesta a estos problemas, las practicas de la Ingeniería del Software se están adoptando en toda la industria.
+
